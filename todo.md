@@ -16,7 +16,7 @@
      - [ ] Confirmation message upon successful booking
      - [ ] Visual elements for a luxurious and calming user experience
 2. Research and Preparation
-   - Review theoretical material: Web design principles, responsive design, form-building.
+   - Review theoretical material: [Web design principles](https://www.youtube.com/watch?v=GJN7TemsZtY), responsive design, form-building.
    - Watch: YouTube Tutorial on Creating Booking Forms
    - Develop the concept for the project: Stellar Retreat Booking Form
 
